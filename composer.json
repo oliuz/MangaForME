@@ -7,10 +7,11 @@
 	{
 		"name": "Jose Rosado",
 		"email": "geekrosado@gmail.com",
+		"homepage": “http://mangaforme.net”,
 		"role”: “Developer”
 		
-	},
-    ]
+	}
+    ],
     "autoload": {
         "psr-4": { "": "src/", "SymfonyStandard\\": "app/SymfonyStandard/" }
     },
