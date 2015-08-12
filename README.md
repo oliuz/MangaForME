@@ -1,2 +1,2 @@
-# Mangaforme
-Aplicacion para proyecto principal de Symfony
+# MangaForME
+Aplicacion para proyecto principal de Symfony de Imagina Formacion.
