@@ -1,8 +1,8 @@
 {
-    "name": “MangaForME”,
+    "name": "symfony/framework-standard-edition",
     "license": "MIT",
     "type": "project",
-    "description": “Applicacion para noticias”,
+    "description": "The \"Symfony Standard Edition\" distribution",
     "authors": [
 	{
 		"name": "Jose Rosado",
