@@ -5,11 +5,9 @@
     "description": "The \"Symfony Standard Edition\" distribution",
     "authors": [
 	{
-		"name": "Jose Rosado",
-		"email": "geekrosado@gmail.com",
-		"homepage": “http://mangaforme.net”,
-		"role”: “Developer”
-		
+		"name": “Jose Rosado”,
+		"email": “geekrosado@gmail.com",
+		"homepage": "http://mangaforme.net”
 	}
     ],
     "autoload": {
