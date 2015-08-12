@@ -3,13 +3,12 @@
     "license": "MIT",
     "type": "project",
     "description": "The \"Symfony Standard Edition\" distribution",
-	"authors": [
+    "authors": 
 	{
 		"name": "Jose Rosado",
 		"email": "geekrosado@gmail.com",
-		
-	}
-    ],
+		“homepage”: “manga2me.net”,
+	},
     "autoload": {
         "psr-4": { "": "src/", "SymfonyStandard\\": "app/SymfonyStandard/" }
     },
